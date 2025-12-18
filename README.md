@@ -2,14 +2,14 @@ Hi, I'm Sona 👋
 
 Product Manager | Ex-Developer | Bridge between Tech & Business
 
-I specialize in navigating the intersection of technology, user needs, and business goals. With a background in engineering, I excel at translating complex technical constraints into clear, reliable product roadmaps—especially within enterprise and platform environments.
+I specialize in navigating the intersection of technology, user needs, and business goals. With a background in engineering, I excel at translating complex technical constraints into clear, reliable product roadmaps especially within enterprise and platform environments.
 
 ## 🏋️‍♂️ Recent Project: [Fitness Agent MVP](https://fitness-consistency-agent.streamlit.app)
 **[View Live Demo](https://fitness-consistency-agent.streamlit.app)** | **[GitHub Repository](https://github.com/sonaabraham/fitness-consistency-agent)**
 
 **Built a dual-version fitness planner demonstrating practical AI integration**
-- **Product Strategy**: Created both rule-based and AI-enhanced versions based on user validation
-- **Technical Execution**: Local Ollama integration with safety-first architecture (Python, Streamlit)
+- **Product Strategy**: Created both rule based and AI enhanced versions based on user validation
+- **Technical Execution**: Local Ollama integration with safety first architecture (Python, Streamlit)
 - **User-Centric Design**: "Silent AI" implementation based on direct user feedback
 - **Full Delivery**: From concept to deployed application with clear documentation
 
@@ -37,9 +37,9 @@ I specialize in navigating the intersection of technology, user needs, and busin
 ## 🚀 What I Bring to a Team
 
 **Technical PM who speaks both languages:**
-- ✅ **From Business Goals → Technical Requirements** – "User trust" → "Silent AI fallback architecture"
-- ✅ **From Technical Constraints → Product Strategy** – Python 3.13 limitations → Simple HTTP API solution  
-- ✅ **From User Feedback → Product Features** – "Too complex" → Minimalist, single-button interface
+- ✅ **From Business Goals → Technical Requirements** : "User trust" → "Silent AI fallback architecture"
+- ✅ **From Technical Constraints → Product Strategy** : Python 3.13 limitations → Simple HTTP API solution  
+- ✅ **From User Feedback → Product Features** : "Too complex" → Minimalist, single button interface
 
 **Recent Technical Project Stack:**
 | **Category** | **Technologies** |
