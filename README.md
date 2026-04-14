@@ -5,7 +5,7 @@ Product Manager | Ex-Developer | Bridge between Tech & Business
 I specialize in navigating the intersection of technology, user needs, and business goals. With a background in engineering, I excel at translating complex technical constraints into clear, reliable product roadmaps especially within enterprise and platform environments.
 
 ## 🏋️‍♂️ Recent Project: [Fitness Agent MVP](https://fitness-consistency-agent.streamlit.app)
-**[View Live Demo](https://fitness-consistency-agent.streamlit.app)** | **[GitHub Repository](https://github.com/sonaabraham/fitness-consistency-agent)**
+**[View Live Demo](https://fitness-consistency-agent.streamlit.app)** | **[GitHub Repository](https://github.com/SonaAbraham1711/fitness-consistency-agent)**
 
 **Built a dual-version fitness planner demonstrating practical AI integration**
 - **Product Strategy**: Created both rule based and AI enhanced versions based on user validation
